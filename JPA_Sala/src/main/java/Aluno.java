@@ -21,7 +21,7 @@ public class Aluno implements Serializable {
 	
 	@Column (name = "sexo", nullable = false)	
 	private String sexo;
-	
+	//sss
 	@Column (name = "dt_nasc", nullable = false)
 	private Date dt_nasc;
 }
